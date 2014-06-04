@@ -1,4 +1,4 @@
 bootcamp-tdd
 ============
 
-Used during BootCamp to show candidates how to use git, and et them started on Test Driven Development
+Used during BootCamp to let candidates get a sweet taste of Git, and get them started on Test Driven Development
