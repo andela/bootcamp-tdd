@@ -1,8 +1,11 @@
 var FizzBuzz = (function(){
     
-    var FizzBuzz = function(num){
-        return "haha";
+    var FizzBuzz = function(){};
+
+    FizzBuzz.prototype =  {
+        
     };
+        
 
     return FizzBuzz;
 })();
