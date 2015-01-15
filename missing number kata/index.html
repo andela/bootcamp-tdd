@@ -9,10 +9,10 @@
   <script src="js/lib/underscore.js"></script>
   <script src="js/lib/chai.js"></script>
   <script src="js/lib/mocha.js"></script>
-  <script>mocha.setup('bdd')</script>
-  <script src="js/Search.js"></script>
-  <script src="tests/test.search.js"></script>
- 
+  <script>mocha.setup('bdd');</script>
+  <script src="js/MissingNumber.js"></script>
+  <script src="tests/test.missingnumber.js"></script>
+
 </head>
 
 <body>
@@ -24,8 +24,8 @@
     $(function(){
       mocha
         .globals(['Missing Number']) // acceptable globals
-        .run()
-    })
+        .run();
+    });
   </script>
 </body>
 
